@@ -1,25 +1,29 @@
 # CryptoScope
-Cryptocurrency Tracker Web Application that allows users to monitor and track the prices of various cryptocurrencies in real-time. The application will provide a user-friendly interface where users can select and track their preferred cryptocurrencies from a wide range of options.It is a platform that allows users to track real-time data and trends of various cryptocurrencies. It leverages a robust tech stack, including Next.js for frontend development, Express.js for backend services, MongoDB for data storage, CoinGecko API and Uniswap for crypto data.
+CryptoScope is an advanced web application that empowers users to track real-time data and trends of various cryptocurrencies. Built on a robust and cutting-edge tech stack, CryptoScope provides an intuitive and user-friendly platform for cryptocurrency enthusiasts and investors alike. With a focus on accuracy, reliability, and seamless functionality, CryptoScope offers a comprehensive set of features to enhance your cryptocurrency trading and investment experience.It leverages a robust tech stack, including Next.js for frontend development, Express.js for backend services, MongoDB for data storage, CoinGecko API and Uniswap for crypto data.
 
 ## Tech Stack:
 
-###  Frontend - Next.js, Chart.js,:
-Next.js is a popular React framework that enables server-side rendering, routing, and optimized performance for building efficient and interactive user interfaces. It facilitates rapid development and seamless integration of frontend components.
+###  Frontend - Next.js, Chart.js:
+Next.js, a popular React framework, serves as the foundation for CryptoScope's frontend development. By leveraging Next.js, we achieve server-side rendering, optimized performance, and efficient routing, resulting in a smooth and interactive user interface. Additionally, the Typesafe version (TSX) ensures code integrity and enhances the overall development process.
+
 
 ### Backend - Express.js, Particle.js:
-Express.js is a flexible and minimalistic Node.js web application framework that handles server-side operations. It enables the implementation of RESTful APIs, middleware, and routing to efficiently manage backend functionalities.
+At the heart of CryptoScope's backend services lies Express.js, a flexible and minimalistic Node.js web application framework. Express.js enables the implementation of robust RESTful APIs, middleware, and efficient routing, ensuring seamless communication between frontend and backend components. Paired with Node.js, the backend provides a stable and scalable foundation for the application's core functionalities.
 
 ### Database - MongoDB:
-MongoDB is a NoSQL document-oriented database that provides high scalability and flexibility. It stores cryptocurrency-related data in JSON-like documents, allowing easy retrieval and manipulation of information.
+To support the storage and retrieval of cryptocurrency-related data, CryptoScope harnesses the power of MongoDB, a NoSQL document-oriented database. MongoDB's ability to store data in JSON-like documents allows for easy manipulation and retrieval of information, ensuring real-time and accurate data display to users.
 
 ### Crypto API - CoinGecko & Uniswap:
-CoinGecko is a comprehensive cryptocurrency data aggregator that offers a wide range of real-time and historical data for various cryptocurrencies. It provides the Crypto Currency Tracker Web Application with up-to-date pricing, market trends, trading volumes, and other relevant data.
+CoinGecko, a renowned cryptocurrency data aggregator, serves as the primary source of real-time and historical data for various cryptocurrencies within CryptoScope. By integrating CoinGecko's API, we provide users with up-to-date pricing, market trends, trading volumes, and additional valuable insights to aid in their investment decisions.
 
-### Functionality
+### Uniswap Integration
+CryptoScope takes your trading experience to the next level with seamless integration with Uniswap, a decentralized exchange. By incorporating Uniswap's functionality directly into the platform, users can make trades, swaps (both long and short positions), and stake with ease and convenience.
+
+### Key Features 
 The CryptoScope Application provides the following key functionalities:
 
 ### Real-time Crypto Data:
-Users can access real-time data of various cryptocurrencies, including current prices, market capitalization, trading volumes, and historical price charts.
+Stay ahead of the market with real-time data on various cryptocurrencies. CryptoScope provides you with current prices, market capitalization, trading volumes, and historical price charts, empowering you to make informed investment decisions.
 
 ### Crosschain swap: 
 Users can swap between cryptocurrencies and able to connect their crypto wallet(metamask), enabling them to transfer the value of their holdings into another cryptocurrency wallet account.
@@ -27,12 +31,10 @@ Users can swap between cryptocurrencies and able to connect their crypto wallet(
 ### Price Alerts via email:
 The application allows users to set price alerts for specific cryptocurrencies and allow user to subscribe to get the customised email alerts. When the prices meet the predefined criteria, users receive notifications via email or push notifications.The Technology used for this is NodeMalier & MongoDB.
 
-### News and Updates:
-The platform displays the latest news and updates related to the cryptocurrency market, keeping users informed about market trends and events.
-
 ### Advanced View of Charts 
+Unlock the power of advanced charting tools to analyze popular cryptocurrencies. With up to three powerful indicators at your disposal, gain valuable insights into currency movements and trends, helping you make well-informed trading choices.
 
-Conclusion:
+## Conclusion:
 The CryptoScope Application, built on a powerful tech stack, enables users to effectively monitor and analyze the dynamic world of cryptocurrencies. It provides real-time data, graphical analysis, price alerts using email using NodeMailer, and offering users a comprehensive platform to make informed investment decisions.
 
 
