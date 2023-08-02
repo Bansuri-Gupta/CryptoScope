@@ -56,21 +56,21 @@ const Hero = () => {
 
                     <div className="heroStatsHold bg-white text-black flex justify-center items-center lg:gap-20 gap-12 md:gap-8 w-full h-28 mt-16 sm:pl-0 sm:pr-0 pl-3 pr-3">
                         <div className='heroStat1 pt-3 pb-3 font-semibold flex flex-col'>
-                            <p className='md:text-2xl text-xl font-normal interFont'>10K+</p>
+                            <p className='md:text-2xl text-xl font-normal interFont'>1K+</p>
                             <p className='text-gray-500 font-normal text-xs md:text-sm lg:text-base interFont'> Total</p>
                             <p className='interFont text-gray-500 text-xs md:text-sm lg:text-base font-medium'>Digital Assets</p>
                         </div>
 
                         <div className='heroStat1 pt-3 pb-3 font-semibold flex flex-col'>
-                            <p className='md:text-2xl text-xl font-normal interFont'>150+</p>
-                            <p className='text-gray-500 font-normal text-xs md:text-sm lg:text-base interFont'>International Exchanges</p>
-                            <p className='interFont text-gray-500 text-xs md:text-sm lg:text-base font-medium'>All Over The World</p>
+                            <p className='md:text-2xl text-xl font-normal interFont'>5+</p>
+                            <p className='text-gray-500 font-normal text-xs md:text-sm lg:text-base interFont'>Amazing </p>
+                            <p className='interFont text-gray-500 text-xs md:text-sm lg:text-base font-medium'>features</p>
                         </div>
 
                         <div className='heroStat1 pt-3 pb-3 font-semibold flex flex-col'>
-                            <p className='md:text-2xl text-xl font-normal interFont'>$5B+</p>
-                            <p className='text-gray-500 font-normal text-xs md:text-sm lg:text-base interFont'>Total Number Of Funds</p>
-                            <p className='interFont text-gray-500 text-xs md:text-sm lg:text-base font-medium'>Secured With Us</p>
+                            <p className='md:text-2xl text-xl font-normal interFont'>$1T+</p>
+                            <p className='text-gray-500 font-normal text-xs md:text-sm lg:text-base interFont'>Total Crypto</p>
+                            <p className='interFont text-gray-500 text-xs md:text-sm lg:text-base font-medium'>Market Capitalization</p>
                         </div>
                     </div>
 
