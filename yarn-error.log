@@ -1,0 +1,84 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\bansu\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add next
+
+PATH: 
+  C:\Program Files\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files\nodejs\;C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\Program Files\Java\jdk-20\bin;C:\Program Files\Git\cmd;C:\Users\bansu\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\bansu\AppData\Local\Programs\Python\Python310\;C:\Users\bansu\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\bansu\AppData\Local\Programs\Python\Python311\;C:\Users\bansu\AppData\Local\Microsoft\WindowsApps;C:\Users\bansu\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\bansu\AppData\Roaming\npm;C:\MinGW\bin;C:\MinGW\msys\1.0\bin;C:\Program Files\Java\jdk-20\bin;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  18.15.0
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/react-icons/-/react-icons-4.10.1.tgz: ESOCKETTIMEDOUT
+      at ClientRequest.<anonymous> (C:\Users\bansu\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:141517:19)
+      at Object.onceWrapper (node:events:627:28)
+      at ClientRequest.emit (node:events:513:28)
+      at TLSSocket.emitRequestTimeout (node:_http_client:848:9)
+      at Object.onceWrapper (node:events:627:28)
+      at TLSSocket.emit (node:events:525:35)
+      at Socket._onTimeout (node:net:570:8)
+      at listOnTimeout (node:internal/timers:569:17)
+      at process.processTimers (node:internal/timers:512:7)
+
+npm manifest: 
+  {
+    "name": "zapit",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    },
+    "dependencies": {
+      "@chakra-ui/react": "^2.5.1",
+      "@emotion/react": "^11.10.6",
+      "@emotion/styled": "^11.10.6",
+      "@reduxjs/toolkit": "^1.9.3",
+      "@types/node": "18.15.3",
+      "@types/react": "18.0.28",
+      "@types/react-dom": "18.0.11",
+      "axios": "^1.3.4",
+      "chart.js": "^4.2.1",
+      "daisyui": "^2.51.4",
+      "dotenv": "^16.0.3",
+      "eslint": "8.36.0",
+      "eslint-config-next": "13.2.4",
+      "framer-motion": "^10.3.1",
+      "next": "13.2.4",
+      "react": "18.2.0",
+      "react-alice-carousel": "^2.7.0",
+      "react-chartjs-2": "^5.2.0",
+      "react-dom": "18.2.0",
+      "react-fast-marquee": "^1.3.5",
+      "react-icons": "^4.8.0",
+      "react-redux": "^8.0.5",
+      "react-select": "^5.7.0",
+      "react-slick": "^0.29.0",
+      "react-sparklines": "^1.7.0",
+      "react-tooltip": "^5.10.0",
+      "slick-carousel": "^1.8.1",
+      "swiper": "^9.2.0",
+      "typescript": "4.9.5",
+      "vercel": "^28.17.0"
+    },
+    "devDependencies": {
+      "@types/react-slick": "^0.23.10",
+      "@types/react-sparklines": "^1.7.2",
+      "autoprefixer": "^10.4.14",
+      "postcss": "^8.4.21",
+      "tailwindcss": "^3.2.7"
+    }
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
