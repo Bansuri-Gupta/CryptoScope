@@ -34,3 +34,6 @@ The platform displays the latest news and updates related to the cryptocurrency 
 
 Conclusion:
 The CryptoScope Application, built on a powerful tech stack, enables users to effectively monitor and analyze the dynamic world of cryptocurrencies. It provides real-time data, graphical analysis, price alerts using email using NodeMailer, and offering users a comprehensive platform to make informed investment decisions.
+
+
+2023 ©Bansuri Gupta
