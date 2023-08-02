@@ -35,20 +35,20 @@ const Hero = () => {
                         <div className="heroInnerChild1 flex flex-col gap-4">
                             <div>
                                 <p className='text-4xl interFont font-normal'>
-                                    Middle East Leadger <br />
-                                    in Market and OTC <br />
-                                    transactions
+                                Welcome to CryptoScope:  <br />
+                                Your Gateway to   <br />
+                                Cryptocurrency Insights.
                                 </p>
                             </div>
 
-                            <p className=' font-semibold'>Track your favputite CryptoCoins on the go all <br />
-                                at one place with  a wide variety of exachanges <br />
+                            <p className=' font-semibold'>Track your favourite CryptoCurrencies on the go all <br />
+                                at one place with a wide range of features. <br />
                             </p>
 
                             <button className='flex justify-center items-center mt-8 w-36 h-10 rounded bg-black text-white font-semibold transition-all ease-in-out duration-500 hover:bg-transparent hover:border hover:text-black border-black' onClick={() => window.scrollTo({
                                 behavior: "smooth",
                                 top : 1100
-                            })}>Learn More</button>
+                            })}>Explore Coins</button>
                         </div>
 
 
