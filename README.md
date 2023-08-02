@@ -4,11 +4,18 @@ CryptoScope is an advanced web application that empowers users to track real-tim
 
 ## Tech Stack:
 
-### Frontend - Next.js, Chart.js:
-Next.js, a popular React framework, serves as the foundation for CryptoScope's frontend development. By leveraging Next.js, we achieve server-side rendering, optimized performance, and efficient routing, resulting in a smooth and interactive user interface. Additionally, the Typesafe version (TSX) ensures code integrity and enhances the overall development process.
+### Frontend- Next.js, Chart.js:
+Next.js, a popular React framework, serves as the foundation for CryptoScope's frontend 
+development. By leveraging Next.js, we achieve server-side rendering, optimized performance, and 
+efficient routing, resulting in a smooth and interactive user interface. Additionally, the Typesafe 
+version (TSX) ensures code integrity and enhances the overall development process.
 
-### Backend - Express.js, Particle.js:
-At the heart of CryptoScope's backend services lies Express.js, a flexible and minimalistic Node.js web application framework. Express.js enables the implementation of robust RESTful APIs, middleware, and efficient routing, ensuring seamless communication between frontend and backend components. Paired with Node.js, the backend provides a stable and scalable foundation for the application's core functionalities.
+### Backend - Express.js
+At the heart of CryptoScope's backend services lies Express.js, a flexible and minimalistic Node.js 
+web application framework. Express.js enables the implementation of robust RESTful APIs, 
+middleware, and efficient routing, ensuring seamless communication between frontend and 
+backend components. Paired with Node.js, the backend provides a stable and scalable foundation 
+for the application's core functionalities.
 
 ### Database - MongoDB:
 To support the storage and retrieval of cryptocurrency-related data, CryptoScope harnesses the power of MongoDB, a NoSQL document-oriented database. MongoDB's ability to store data in JSON-like documents allows for easy manipulation and retrieval of information, ensuring real-time and accurate data display to users.
